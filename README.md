@@ -6,6 +6,5 @@ An average screening for a simple disease from a professional clinic can range b
 
 <img width="364" alt="appview" src="https://user-images.githubusercontent.com/22282701/58344066-96b8a700-7e09-11e9-8d6c-bab0985c886b.jpeg">
 
-![IMG_3683](https://user-images.githubusercontent.com/22282701/58344066-96b8a700-7e09-11e9-8d6c-bab0985c886b.jpeg)
 
 
